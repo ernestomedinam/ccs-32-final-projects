@@ -36,6 +36,7 @@ gestion de pacientes de Alzheimer para pacientes y familiares/cuidadores; refere
 > - José Perestrelo
 > - Richard Jardine
 > - Pedro Maldonado
+> - Robianna De La Parra
 
 -----
 
