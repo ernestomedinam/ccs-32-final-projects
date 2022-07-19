@@ -51,6 +51,7 @@ como un trivago pero para medicamentos y servicios médicos.
 - usuario comprador puede ver su historial de compra y calificar.
 
 Valeria Zampetti
+Samuel Faraco
 
 -----
 
@@ -115,6 +116,9 @@ espacio como trivago pero para materiales de construcción.
 ## club de lectura 📘
 
 espacio para creación y gestión de clubes y grupos de lectura.
+
+Francisco Vidal
+Alí Méndez
 
 -----
 
