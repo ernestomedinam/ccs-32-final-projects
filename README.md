@@ -52,6 +52,8 @@ como un trivago pero para medicamentos y servicios médicos.
 
 Valeria Zampetti
 Samuel Faraco
+Daniela Giménez
+Alberto Moreno
 
 -----
 
@@ -119,6 +121,7 @@ espacio para creación y gestión de clubes y grupos de lectura.
 
 Francisco Vidal
 Alí Méndez
+Jesús Rajbe
 
 -----
 
