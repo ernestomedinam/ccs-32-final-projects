@@ -4,6 +4,63 @@ ideas for caracas cohort 32 final projects!
 
 -----
 
+## la canchita 💎
+
+un espacio para organizar encuentros de deportes amateur en espacios públicos y privados.
+- gestión histórica de deportistas (eventos inscritos/eventos participación, data de juego)
+
+> - Mariano Cascarano
+> - Wilfredo Morales
+
+-----
+
+## market med || quick emergency finder💉
+
+como un trivago pero para medicamentos y servicios médicos.
+- usuario comprador puede ver su historial de compra y calificar.
+
+> - Samuel Faraco
+> - Valeria Zampetti
+> - Daniela Giménez
+> - Alberto Moreno
+
+-----
+
+## yo te cuido* 🏥
+
+gestion de pacientes de Alzheimer para pacientes y familiares/cuidadores; referencia: YoTeCuido.
+- información sobre tratamientos, técnicas y gestión emocional de pacientes y cuidadores
+- asesoramiento, prestadores de servicio*
+- gestión de tratamiento
+
+> - José Perestrelo
+> - Richard Jardine
+> - Pedro Maldonado
+
+-----
+
+## club de lectura 📘
+
+espacio para creación y gestión de clubes y grupos de lectura.
+
+> - Francisco Vidal
+> - Alí Méndez
+> - Jesús Rajbe
+
+-----
+
+# para otra ocasión...
+
+## mi vaquita 🐮
+
+aplicación para gestión de inventario en fincas agropecuarias y ganaderas.
+- automatización de tareas
+- control de vacunación en animales
+- mantenimiento de máquinas y áreas
+- inventario de alimentos y medicamentos
+
+
+
 ## cosmic match 🌟
 
 como tinder pero con cruce de variables para cálculo de indicadores de naturaleza astrológica.
@@ -15,16 +72,6 @@ como tinder pero con cruce de variables para cálculo de indicadores de naturale
 ## to doom list 😈
 
 aplicación para gestión de tareas con indicadores visuales con base en Doom: `daño ~ tareas pendientes/ tareas hechas`.
-
------
-
-## la canchita 💎
-
-un espacio para organizar encuentros de deportes amateur en espacios públicos y privados.
-- gestión histórica de deportistas (eventos inscritos/eventos participación, data de juego)
-
-> - Mariano Cascarano
-> - Wilfredo Morales
 
 -----
 
@@ -45,34 +92,9 @@ plataforma para consejos de apuestas deportivas.
 
 -----
 
-## market med || quick emergency finder💉
-
-como un trivago pero para medicamentos y servicios médicos.
-- usuario comprador puede ver su historial de compra y calificar.
-
-> - Samuel Faraco
-> - Valeria Zampetti
-> - Daniela Giménez
-> - Alberto Moreno
-
------
-
 ## cuidame la casa 🏡
 
 aplicación para gestionar cuidado de casas solas, con los dueños afuera.
-
------
-
-## yo te cuido* 🏥
-
-gestion de pacientes de Alzheimer para pacientes y familiares/cuidadores; referencia: YoTeCuido.
-- información sobre tratamientos, técnicas y gestión emocional de pacientes y cuidadores
-- asesoramiento, prestadores de servicio*
-- gestión de tratamiento
-
-> - José Perestrelo
-> - Richard Jardine
-> - Pedro Maldonado
 
 -----
 
@@ -115,22 +137,3 @@ espacio como trivago pero para materiales de construcción.
 - usuarios buscan información curada sobre proveedores de materiales y herramientas para construcción con base en precios y distancias
 
 -----
-
-## club de lectura 📘
-
-espacio para creación y gestión de clubes y grupos de lectura.
-
-> - Francisco Vidal
-> - Alí Méndez
-> - Jesús Rajbe
-
------
-
-## mi vaquita 🐮
-
-aplicación para gestión de inventario en fincas agropecuarias y ganaderas.
-- automatización de tareas
-- control de vacunación en animales
-- mantenimiento de máquinas y áreas
-- inventario de alimentos y medicamentos
-
