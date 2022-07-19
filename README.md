@@ -26,9 +26,10 @@ plataforma para consejos de apuestas deportivas.
 
 -----
 
-## market med 💉
+## market med || quick emergency finder💉
 
 como un trivago pero para medicamentos y servicios médicos.
+- usuario comprador puede ver su historial de compra y calificar.
 
 -----
 
@@ -100,3 +101,4 @@ aplicación para gestión de inventario en fincas agropecuarias y ganaderas.
 - control de vacunación en animales
 - mantenimiento de máquinas y áreas
 - inventario de alimentos y medicamentos
+
