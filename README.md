@@ -23,8 +23,8 @@ aplicación para gestión de tareas con indicadores visuales con base en Doom: `
 un espacio para organizar encuentros de deportes amateur en espacios públicos y privados.
 - gestión histórica de deportistas (eventos inscritos/eventos participación, data de juego)
 
-Mariano Cascarano
-Wilfredo Morales
+> - Mariano Cascarano
+> - Wilfredo Morales
 
 -----
 
@@ -50,10 +50,10 @@ plataforma para consejos de apuestas deportivas.
 como un trivago pero para medicamentos y servicios médicos.
 - usuario comprador puede ver su historial de compra y calificar.
 
-Valeria Zampetti
-Samuel Faraco
-Daniela Giménez
-Alberto Moreno
+> - Samuel Faraco
+> - Valeria Zampetti
+> - Daniela Giménez
+> - Alberto Moreno
 
 -----
 
@@ -70,8 +70,9 @@ gestion de pacientes de Alzheimer para pacientes y familiares/cuidadores; refere
 - asesoramiento, prestadores de servicio*
 - gestión de tratamiento
 
-José Perestrelo
-Richard Jardine
+> - José Perestrelo
+> - Richard Jardine
+> - Pedro Maldonado
 
 -----
 
@@ -119,9 +120,9 @@ espacio como trivago pero para materiales de construcción.
 
 espacio para creación y gestión de clubes y grupos de lectura.
 
-Francisco Vidal
-Alí Méndez
-Jesús Rajbe
+> - Francisco Vidal
+> - Alí Méndez
+> - Jesús Rajbe
 
 -----
 
