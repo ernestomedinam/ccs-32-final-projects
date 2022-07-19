@@ -23,6 +23,8 @@ aplicación para gestión de tareas con indicadores visuales con base en Doom: `
 un espacio para organizar encuentros de deportes amateur en espacios públicos y privados.
 - gestión histórica de deportistas (eventos inscritos/eventos participación, data de juego)
 
+Mariano Cascarano
+Wilfredo Morales
 
 -----
 
@@ -48,6 +50,8 @@ plataforma para consejos de apuestas deportivas.
 como un trivago pero para medicamentos y servicios médicos.
 - usuario comprador puede ver su historial de compra y calificar.
 
+Valeria Zampetti
+
 -----
 
 ## cuidame la casa 🏡
@@ -62,6 +66,9 @@ gestion de pacientes de Alzheimer para pacientes y familiares/cuidadores; refere
 - información sobre tratamientos, técnicas y gestión emocional de pacientes y cuidadores
 - asesoramiento, prestadores de servicio*
 - gestión de tratamiento
+
+José Perestrelo
+Richard Jardine
 
 -----
 
