@@ -4,17 +4,34 @@ ideas for caracas cohort 32 final projects!
 
 -----
 
-## astrolove 🌟
+## cosmic match 🌟
 
 como tinder pero con cruce de variables para cálculo de indicadores de naturaleza astrológica.
-- mejores temporadas para citas por tipo de cita, signos, tipo de plan
+- yo como usuario que busca pareja, tiene que entregar la información requerida para calcular compatibilidad astrológica porque quiere usar la aplicación
+- como usuario que busca pareja, quiero validar mi compatibilidad astrológica con parejas potenciales inscritas en la aplicación para decidir contactarles
+
+-----
+
+## to doom list 😈
+
+aplicación para gestión de tareas con indicadores visuales con base en Doom: `daño ~ tareas pendientes/ tareas hechas`.
 
 -----
 
 ## la canchita 💎
 
-un espacio para organizar encuentros de deportes amateur.
+un espacio para organizar encuentros de deportes amateur en espacios públicos y privados.
 - gestión histórica de deportistas (eventos inscritos/eventos participación, data de juego)
+
+
+-----
+
+## kitchcursion 🌋
+
+un espacio para organizar viajes de excursiones y turismo poco convencional.
+- yo como excursionista experimentado quiero convocar un viaje o excursión abierto a un destino que conozco porque quiero conocer personas nuevas
+- yo como excursionista experimentado quiero crear mi grupo en la aplicación e invitar a mi grupo de excursionistas experimentados para gestionar nuestras aventuras
+- yo como excursionista quiero consultar en un mapa la ruta recorrida en mis últimos viajes para llevar un registro histórico y verificar mi progreso (mis hazañas)
 
 -----
 
@@ -77,7 +94,7 @@ plataforma para prestadores de servicio de niñero y clientes representantes.
 
 ## alquilibrio 🚲
 
-plataforma para alquilar vehículos de cualquier naturaleza entre privados.
+plataforma para alquilar carros de cualquier naturaleza entre privados. 
 
 -----
 
