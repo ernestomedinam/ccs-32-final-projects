@@ -10,7 +10,7 @@ un espacio para organizar encuentros de deportes amateur en espacios públicos y
 - gestión histórica de deportistas (eventos inscritos/eventos participación, data de juego)
 
 > - Mariano Cascarano
-> - Wilfredo Morales 👨🏽
+> - Wilfredo Morales 🐱‍👤
 
 ctrl + [board](https://github.com/users/wiljmorales/projects/1)
 
@@ -21,7 +21,7 @@ ctrl + [board](https://github.com/users/wiljmorales/projects/1)
 como un trivago pero para medicamentos y servicios médicos.
 - usuario comprador puede ver su historial de compra y calificar.
 
-> - Samuel Faraco 👨🏽
+> - Samuel Faraco 🐱‍👤
 > - Valeria Zampetti
 > - Daniela Giménez
 > - Alberto Moreno
@@ -38,7 +38,7 @@ gestion de pacientes de Alzheimer para pacientes y familiares/cuidadores; refere
 - gestión de tratamiento
 
 > - José Perestrelo
-> - Richard Jardine 👨🏻
+> - Richard Jardine 🐱‍👤
 > - Pedro Maldonado
 > - Robianna De La Parra
 
@@ -52,7 +52,7 @@ espacio para creación y gestión de clubes y grupos de lectura.
 
 > - Francisco Vidal
 > - Alí Méndez
-> - Jesús Rajbe 👨🏻
+> - Jesús Rajbe 🐱‍👤
 
 ctrl + [board](https://github.com/users/jerajbe/projects/1)
 
