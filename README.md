@@ -18,11 +18,9 @@ ctrl + [board](https://github.com/users/wiljmorales/projects/1)
 
 ## Seguros Bondpland || 
 A la altura de tus necesidades
-
-
-- usuario comprador puede ver su historial de compra y calificar.
-
-> - Samuel Faraco 🐱‍👤[iTz-samuel11](https://github.com/iTz-samuel11)
+- Información sobre seguros medicos
+- El usuario puede obtener de manera rápida y eficiente su clave del seguro para una emergencia.
+> - Samuel Faraco [iTz-samuel11](https://github.com/iTz-samuel11) 🐱‍👤
 > - Valeria Zampetti [ValeriaZampetti](https://github.com/ValeriaZampetti)
 > - Daniela Giménez [danielagimeneez](https://github.com/danielagimeneez)
 > - Alberto Moreno [alb3rnaru](https://github.com/Alb3rnaru)
