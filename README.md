@@ -4,13 +4,13 @@ ideas for caracas cohort 32 final projects!
 
 -----
 
-## la canchita 💎
+## la canchita  :goal_net:
 
 un espacio para organizar encuentros de deportes amateur en espacios públicos y privados.
-- gestión histórica de deportistas (eventos inscritos/eventos participación, data de juego)
+- gestión histórica de deportistas (eventos de creacion/inscripcion, comunicacion y reseñas entre jugadores)
 
-> - Mariano Cascarano
-> - Wilfredo Morales 🐱‍👤
+> - Mariano Cascarano [Marius115](https://github.com/Marius115)
+> - Wilfredo Morales [wiljmorales](https://github.com/wiljmorales)🐱‍👤
 
 ctrl + [board](https://github.com/users/wiljmorales/projects/1)
 
