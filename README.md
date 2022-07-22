@@ -16,15 +16,16 @@ ctrl + [board](https://github.com/users/wiljmorales/projects/1)
 
 -----
 
-## market med || quick emergency finder💉
+## Seguros Bondpland || 
+A la altura de tus necesidades
 
-como un trivago pero para medicamentos y servicios médicos.
+
 - usuario comprador puede ver su historial de compra y calificar.
 
-> - Samuel Faraco 🐱‍👤
-> - Valeria Zampetti
-> - Daniela Giménez
-> - Alberto Moreno
+> - Samuel Faraco 🐱‍👤[iTz-samuel11](https://github.com/iTz-samuel11)
+> - Valeria Zampetti [ValeriaZampetti](https://github.com/ValeriaZampetti)
+> - Daniela Giménez [danielagimeneez](https://github.com/danielagimeneez)
+> - Alberto Moreno [alb3rnaru](https://github.com/Alb3rnaru)
 
 crtl + [board](https://github.com/users/iTz-samuel11/projects/2/views/1)
 
