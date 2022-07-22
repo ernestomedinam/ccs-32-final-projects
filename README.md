@@ -16,7 +16,7 @@ ctrl + [board](https://github.com/users/wiljmorales/projects/1)
 
 -----
 
-## Seguros Bondpland || 
+## Seguros Bondpland🦺🩺🏥|| 
 A la altura de tus necesidades
 - Información sobre seguros medicos
 - El usuario puede obtener de manera rápida y eficiente su clave del seguro para una emergencia.
