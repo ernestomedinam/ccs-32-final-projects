@@ -12,7 +12,10 @@ un espacio para organizar encuentros de deportes amateur en espacios públicos y
 > - Mariano Cascarano [Marius115](https://github.com/Marius115)
 > - Wilfredo Morales [wiljmorales](https://github.com/wiljmorales)🐱‍👤
 
-ctrl + [board](https://github.com/users/wiljmorales/projects/1)
+ctrl + [Proyecto](https://github.com/users/wiljmorales/projects/1)
+
+ctrl + [Repositorio](https://github.com/wiljmorales/la-canchita)
+
 
 -----
 
@@ -25,11 +28,13 @@ A la altura de tus necesidades
 > - Daniela Giménez [danielagimeneez](https://github.com/danielagimeneez)
 > - Alberto Moreno [alb3rnaru](https://github.com/Alb3rnaru)
 
-crtl + [board](https://github.com/users/iTz-samuel11/projects/2/views/1)
+crtl + [Proyecto](https://github.com/users/iTz-samuel11/projects/2/views/1)
+
+crtl + [Repositorio](https://github.com/iTz-samuel11/segurosBonpland)
 
 -----
 
-## yo te cuido* 🏥
+## AcompañaMe 🏥
 
 gestion de pacientes de Alzheimer para pacientes y familiares/cuidadores; referencia: YoTeCuido.
 - información sobre tratamientos, técnicas y gestión emocional de pacientes y cuidadores
@@ -41,7 +46,9 @@ gestion de pacientes de Alzheimer para pacientes y familiares/cuidadores; refere
 > - Pedro Maldonado
 > - Robianna De La Parra
 
-ctrl + [board](https://github.com/users/rhjardine/projects/3/views/1)
+ctrl + [Proyecto](https://github.com/users/rhjardine/projects/3/views/1)
+
+ctrl + [Repositorio](https://github.com/rhjardine/acompaname)
 
 -----
 
@@ -53,7 +60,9 @@ espacio para creación y gestión de clubes y grupos de lectura.
 > - Alí Méndez
 > - Jesús Rajbe 🐱‍👤
 
-ctrl + [board](https://github.com/users/jerajbe/projects/1)
+ctrl + [Proyecto](https://github.com/users/jerajbe/projects/1)
+
+ctrl + [Repositorio](https://github.com/jerajbe/club-de-lectura)
 
 -----
 
